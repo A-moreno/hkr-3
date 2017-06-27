@@ -1,4 +1,4 @@
-# hkr-3import java.util.Scanner;
+import java.util.Scanner;
 
 
 public class sumatoria {
